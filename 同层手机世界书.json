@@ -148,7 +148,7 @@
       "order": 100,
       "position": 4,
       "disable": true,
-      "excludeRecursion": false,
+      "excludeRecursion": true,
       "preventRecursion": false,
       "matchPersonaDescription": false,
       "matchCharacterDescription": false,
